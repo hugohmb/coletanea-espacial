@@ -1,7 +1,7 @@
 Projeto SpacePunk – Tecnologia Vestível com Arduino
 
 **Coletânea de Expressões Espaciais: Uma Proposta de Moda Inspirada no Universo**  
-Desenvolvido por Hugo Mendes Barbosa no curso de Design de Padronagem da PUC-Rio  
+Desenvolvido por Hugo Mendes Barbosa na matéria de Padronagem no curso de Design (Desenho Industrial) da PUC-Rio  
 Orientação: Isabel Martins Moreira  
 
 ---
