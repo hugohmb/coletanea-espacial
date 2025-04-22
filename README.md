@@ -51,7 +51,8 @@ O código `.ino` está disponível neste repositório e pode ser usado como base
 
 ## 🎥 Vídeo do Projeto
 
-[🔗 Assista à demonstração do projeto no YouTube](https://youtu.be/8H-Sm_NM6Vs)
+[🔗 Assista à demonstração do projeto no YouTube]<a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank">🔗 Vídeo do Projeto</a>
+
 
 ---
 
@@ -87,4 +88,4 @@ Curso: Design de Padronagem – PUC-Rio
 Ano: 2018
 
 📸 Vídeo
-https://youtu.be/8H-Sm_NM6Vs
+Link para o vídeo: <a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank">🔗 Vídeo do Projeto</a>
