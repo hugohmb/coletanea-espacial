@@ -87,27 +87,35 @@ O projeto foi desenvolvido utilizando os seguintes materiais e componentes:
 - **Descrição**: LEDs RGB foram usados para criar diferentes variações de cor e brilho, controladas pela placa Arduino. O LED pode ser ajustado para representar diferentes intensidades de luz com base no volume do som.
 - **Link**: [LED RGB](https://www.adafruit.com/product/299)
 
-### 3. **Microfone ou Sensor de Som**
+### 3. ** Sensor de Luz (LDR - Light Dependent Resistor)**
+– **Descrição**: Sensor que detecta a intensidade da luz ambiente.
+- **Link**: [Sensor de Luz](https://www.adafruit.com/product/4681)
+
+### 4. **Microfone ou Sensor de Som**
 - **Descrição**: Este sensor detecta o som ambiente e transmite os dados para a placa Arduino, permitindo que o brilho dos LEDs varie conforme o volume do ambiente.
 - **Link**: [Microfone/Sensor de Som](https://www.arduino.cc/en/Guide/Sensors)
 
-### 4. **Resistores**
+### 5. **Resistores**
 - **Descrição**: Usados para proteger os LEDs e garantir que o circuito funcione corretamente sem sobrecarregar os componentes.
-- **Link**: [Kit de Resistores](https://www.amazon.com.br/dp/B07YYDZLZ8)
+- **Link**: [Kit de Resistores](https://www.adafruit.com/product/2780)
 
-### 5. **Fios Jumpers**
+### 6. **Transistor**
+- **Descrição**: Transistor NPN (como o 2N2222) para controlar a corrente do LED.
+- **Link**: [Transistor](https://www.adafruit.com/product/976)
+
+### 7. **Fios Jumpers**
 - **Descrição**: Fios flexíveis que conectam os componentes na protoboard e na placa Arduino.
 - **Link**: [Fios Jumpers](https://www.arduino.cc/en/Guide/Wiring)
 
-### 6. **Protoboard (Breadboard)**
+### 8. **Protoboard (Breadboard)**
 - **Descrição**: Usada para a montagem dos circuitos de teste sem a necessidade de soldar os componentes.
 - **Link**: [Protoboard](https://www.adafruit.com/product/64)
 
-### 7. **Fonte de Alimentação**
+### 9. **Fonte de Alimentação**
 - **Descrição**: Fonte de 5V para alimentar a placa Arduino e os componentes do projeto.
-- **Link**: [Fonte de Alimentação 5V](https://www.arduino.cc/en/Main/ArduinoBoardUno)
+- **Link**: [Fonte de Alimentação 5V](https://www.adafruit.com/product/276)
 
-### 8. **Software Arduino IDE**
+### 10. **Software Arduino IDE**
 - **Descrição**: O Arduino IDE é utilizado para programar a placa Arduino. Ele permite a escrita, compilação e upload de código para a placa.
 - **Link**: [Arduino IDE](https://www.arduino.cc/en/software)
 
