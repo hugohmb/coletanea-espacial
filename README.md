@@ -93,7 +93,7 @@ O projeto foi desenvolvido utilizando os seguintes materiais e componentes:
 
 ### 4. **Microfone ou Sensor de Som**
 - **Descrição**: Este sensor detecta o som ambiente e transmite os dados para a placa Arduino, permitindo que o brilho dos LEDs varie conforme o volume do ambiente.
-- **Link**: [Microfone/Sensor de Som](https://www.arduino.cc/en/Guide/Sensors)
+- **Link**: [Microfone/Sensor de Som](https://www.adafruit.com/product/1063)
 
 ### 5. **Resistores**
 - **Descrição**: Usados para proteger os LEDs e garantir que o circuito funcione corretamente sem sobrecarregar os componentes.
@@ -105,7 +105,7 @@ O projeto foi desenvolvido utilizando os seguintes materiais e componentes:
 
 ### 7. **Fios Jumpers**
 - **Descrição**: Fios flexíveis que conectam os componentes na protoboard e na placa Arduino.
-- **Link**: [Fios Jumpers](https://www.arduino.cc/en/Guide/Wiring)
+- **Link**: [Fios Jumpers](https://www.adafruit.com/product/1957)
 
 ### 8. **Protoboard (Breadboard)**
 - **Descrição**: Usada para a montagem dos circuitos de teste sem a necessidade de soldar os componentes.
