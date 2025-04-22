@@ -78,6 +78,50 @@ O projeto une poética visual, ciência, moda e tecnologia, trazendo o universo 
 
 “Ao tornar o espaço ‘vestível’, o projeto não apenas aproxima a ciência da arte, mas também propõe novas formas de expressão pessoal e conexão emocional com o cosmos.”
 
+Materiais e Componentes Usados na Versão Final.
+
+O projeto foi desenvolvido utilizando os seguintes materiais e componentes:
+
+### 1. **Placa Arduino Uno**
+- **Descrição**: A placa Arduino Uno é a principal unidade de controle do projeto, responsável por processar as entradas do sensor de som e controlar os LEDs.
+- **Link**: [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
+
+### 2. **LED RGB**
+- **Descrição**: LEDs RGB foram usados para criar diferentes variações de cor e brilho, controladas pela placa Arduino. O LED pode ser ajustado para representar diferentes intensidades de luz com base no volume do som.
+- **Link**: [LED RGB](https://www.adafruit.com/product/299)
+
+### 3. **Microfone ou Sensor de Som**
+- **Descrição**: Este sensor detecta o som ambiente e transmite os dados para a placa Arduino, permitindo que o brilho dos LEDs varie conforme o volume do ambiente.
+- **Link**: [Microfone/Sensor de Som](https://www.arduino.cc/en/Guide/Sensors)
+
+### 4. **Resistores**
+- **Descrição**: Usados para proteger os LEDs e garantir que o circuito funcione corretamente sem sobrecarregar os componentes.
+- **Link**: [Kit de Resistores](https://www.amazon.com.br/dp/B07YYDZLZ8)
+
+### 5. **Fios Jumpers**
+- **Descrição**: Fios flexíveis que conectam os componentes na protoboard e na placa Arduino.
+- **Link**: [Fios Jumpers](https://www.arduino.cc/en/Guide/Wiring)
+
+### 6. **Protoboard (Breadboard)**
+- **Descrição**: Usada para a montagem dos circuitos de teste sem a necessidade de soldar os componentes.
+- **Link**: [Protoboard](https://www.adafruit.com/product/64)
+
+### 7. **Fonte de Alimentação**
+- **Descrição**: Fonte de 5V para alimentar a placa Arduino e os componentes do projeto.
+- **Link**: [Fonte de Alimentação 5V](https://www.arduino.cc/en/Main/ArduinoBoardUno)
+
+### 8. **Software Arduino IDE**
+- **Descrição**: O Arduino IDE é utilizado para programar a placa Arduino. Ele permite a escrita, compilação e upload de código para a placa.
+- **Link**: [Arduino IDE](https://www.arduino.cc/en/software)
+
+---
+
+Outros Materiais e Ferramentas:
+- **Tecido** (se aplicável): Tecido 100% poliéster para aplicar as estampas de texto e imagens inspiradas no espaço.
+- **Impressora de Sublimação**: Para transferir as imagens do projeto para o tecido.
+
+---
+
 Créditos
 Autor: Hugo Mendes Barbosa
 
@@ -88,4 +132,4 @@ Curso: Design de Padronagem – PUC-Rio
 Ano: 2018
 
 📸 Vídeo
-Link para o vídeo: <a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank">🔗 Vídeo do Projeto</a>
+Link para o vídeo: <a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank"> Vídeo do Projeto</a>
