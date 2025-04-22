@@ -14,6 +14,12 @@ O ponto de partida foi o tema **“Natural”**, explorado através da **Propor�
 
 ---
 
+Criação
+
+Este projeto une ciência, arte e tecnologia para propor novas formas de expressão estética e identidade pessoal — transformando a imensidão do cosmos em linguagem de moda.
+
+---
+
 Estilo: SpacePunk
 
 A estética resulta da fusão de dois gêneros:
@@ -56,27 +62,18 @@ Vídeo do Projeto
 
 ---
 
-Observações
-
-A versão final do projeto incluiu sensores que ajustavam a intensidade do LED com base no volume do som ambiente. No entanto, por questões de documentação e vídeo, esta parte não foi registrada visualmente. O código presente aqui representa a base funcional entregue no projeto final.
-
----
-
-Criação
-
-Este projeto une ciência, arte e tecnologia para propor novas formas de expressão estética e identidade pessoal — transformando a imensidão do cosmos em linguagem de moda.
-
----
-
-
 Observação sobre a versão final
+
 Durante o desenvolvimento, a funcionalidade foi aprimorada para incluir um microfone ou sensor de som, fazendo com que o brilho do LED variasse conforme o volume do ambiente. Quanto mais alto o som, maior a intensidade da luz.
 No entanto, essa versão não foi registrada em vídeo, sendo descrita aqui como parte da documentação final do projeto.
 
 Conclusão
+
 O projeto une poética visual, ciência, moda e tecnologia, trazendo o universo para o cotidiano de forma vestível. O kimono iluminado não é apenas um produto de moda, mas uma manifestação estética sobre como o espaço pode ser reinterpretado, sentido e vivido no corpo humano.
 
 “Ao tornar o espaço ‘vestível’, o projeto não apenas aproxima a ciência da arte, mas também propõe novas formas de expressão pessoal e conexão emocional com o cosmos.”
+
+---
 
 Materiais e Componentes Usados na Versão Final.
 
