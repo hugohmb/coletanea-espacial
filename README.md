@@ -132,7 +132,9 @@ Autor: Hugo Mendes Barbosa
 
 Orientação acadêmica: Isabel Martins Moreira
 
-Curso: Design de Padronagem – PUC-Rio
+Curso: Design (Desenho Industrial) – PUC-Rio
+
+Matéria: Padronagem
 
 Ano: 2018
 
