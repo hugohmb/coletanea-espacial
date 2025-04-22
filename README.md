@@ -51,7 +51,7 @@ O código `.ino` está disponível neste repositório e pode ser usado como base
 
 Vídeo do Projeto
 
-[🔗 Assista à demonstração do projeto no YouTube] <a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank"> Vídeo do Projeto</a>
+[🔗 Assista à demonstração do protótipo do projeto no YouTube] <a href="https://youtu.be/8H-Sm_NM6Vs" target="_blank"> Vídeo do Projeto</a>
 
 
 ---
